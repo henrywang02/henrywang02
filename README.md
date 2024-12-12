@@ -26,12 +26,22 @@
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="PowerShell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Stats 📊
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrywang02&show_icons=true&theme=vue-dark)
+
+### Henry's op Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrywang02&layout=donut-vertical)
+
+### Henry's Journey
+...
+
 
 
 
