@@ -30,12 +30,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### Stats 📊
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrywang02&show_icons=true&theme=vue-dark)
 
-### Henry's op Languages
+### Henry's top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrywang02&layout=donut-vertical)
 
