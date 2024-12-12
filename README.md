@@ -1,7 +1,9 @@
-## Hi there 👋
+## Quang Phat Vuong (Henry) 👨‍💻
 
-<!--
-**henrywang02/henrywang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`IT Engineer (Data Analyst/Data Scientist/Machine Learning)`**
+
+I'm a third-year student pursuing a Bachelor's degree in Information and Communication Technology at JAMK University of Applied Sciences. My specialization lies in Data Analytics and Artificial Intelligence, fields that excite me for their transformative impact on technology and society. 
+During my academic journey, I have developed a basic foundation in programming, data processing, and machine learning. I also had the opportunity to gain hands-on experience through an internship with JYP Ice Hockey Team, where I contributed to streamline data analysis workflows. This experience further fueled my passion for using data-driven insights to solve real-world problems. I am constantly seeking opportunities to grow my skills and take on new challenges that align with my academic and professional interests. Whether it's contributing to open-source projects or collaborating on innovative solutions, I aim to turn ideas into impactful results. Feel free to explore my repositories, and let's connect to create something amazing together!
 
 Here are some ideas to get you started:
 
