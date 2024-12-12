@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b39a8570-fff2-4958-ac2e-3cb6684ca2ad)## Quang Phat Vuong (Henry) 👨‍💻
+## Quang Phat Vuong (Henry) 👨‍💻
 
 **`IT Engineer (Data Analyst/Data Scientist/Machine Learning)`**
 
