@@ -1,4 +1,4 @@
-## Quang Phat Vuong (Henry) 👨‍💻
+![image](https://github.com/user-attachments/assets/b39a8570-fff2-4958-ac2e-3cb6684ca2ad)## Quang Phat Vuong (Henry) 👨‍💻
 
 **`IT Engineer (Data Analyst/Data Scientist/Machine Learning)`**
 
@@ -8,4 +8,30 @@
 
 ---
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+### Languages and Tools
+
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+
+
+          
+          
+          
+          
+          
+
+
+          
