@@ -10,7 +10,8 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Java" width="35px" style="padding-right:"10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="35px" style="padding-right:"10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />'
+
 <img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:"10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
