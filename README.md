@@ -6,10 +6,8 @@
 
 - I'm passionate about leveraging data-driven insights to solve real-world problems and continuously seek opportunities to enhance my skills. Explore my repositories, and let's collaborate to create impactful solutions!
 
----
 
-
-          
+---          
 ### Languages and Tools
 
 
@@ -28,6 +26,13 @@
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="PowerShell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+
+---
+
+### Stats 📊
+
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrywang02&show_icons=true&theme=vue-dark)
+
 
 
 
